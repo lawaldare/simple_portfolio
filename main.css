@@ -18,6 +18,13 @@ nav ul {
 nav ul li a:hover {
     color: green;
   }
+
+nav ul li a:link {
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 20px 40px;
+    background-color: grey;
+}
   
 nav ul li {
     display: inline-block;

@@ -16,14 +16,17 @@ nav ul {
 }
 
 nav ul li a:hover {
-    color: green;
+    color: black;
+    background-color: #98EA3B;
   }
 
 nav ul li a:link {
     text-transform: uppercase;
     text-decoration: none;
     padding: 20px 40px;
-    background-color: grey;
+    background-color: #22313F;
+    color: white;
+    border-radius: 100px;
 }
   
 nav ul li {
